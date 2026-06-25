@@ -1,18 +1,15 @@
-<img align="right" src="images/pg_elephant_pizza.png" alt="PostgreSQL elephant with pizza" width="380"/>
+<p align="center">
+  <img src="images/pg_elephant_pizza.png" alt="PostgreSQL elephant with pizza" width="700"/>
+</p>
 
-# SQL Bootcamp 🍕🐘
+<h1 align="center">SQL Bootcamp 🍕🐘</h1>
 
-*(PostgreSQL practice project)*
-
-I never thought pizza orders could teach me so much about databases 😳
+I never thought a PostgreSQL practice project about pizza orders could teach me so much about databases 😳
 
 This repository contains my solutions for the SQL Bootcamp tasks 🎓
 
 The project starts with a small pizza ordering database and gradually moves
 from simple `SELECT` queries to joins, indexes, transactions, triggers, and functions 💆🏽‍♀️
-
-<br clear="right"/>
-<p align="center">🍕 ─────────────── 🐘 ─────────────── 🍕</p>
 
 ## 🎯 What is this project about?
 
@@ -27,17 +24,10 @@ from simple `SELECT` queries to joins, indexes, transactions, triggers, and func
 
 <p align="center">🍕 ─────────────── 🐘 ─────────────── 🍕</p>
 
+<p align="center">
 <img src="images/important_detail.png" alt="Important detail" width="600"/><br>
 <img src="images/get_pizza.png" alt="Visit and order are separate entities" width="600"/>
-
-<p align="center">🍕 ─────────────── 🐘 ─────────────── 🍕</p>
-
-## 🛠️ Tech Stack
-
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![OrbStack](https://img.shields.io/badge/-OrbStack-8B5CF6?style=for-the-badge)
+</p>
 
 <p align="center">🍕 ─────────────── 🐘 ─────────────── 🍕</p>
 
@@ -244,6 +234,15 @@ Before running the tasks, apply the database model:
 Then `run` the exercise files from the corresponding `src` directory
 
 <img src="images/delivery_pizza.png" alt="Delivery pizza" width="500"/>
+
+<p align="center">🍕 ─────────────── 🐘 ─────────────── 🍕</p>
+
+## 🛠️ Tech Stack
+
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![OrbStack](https://img.shields.io/badge/-OrbStack-8B5CF6?style=for-the-badge)
 
 <p align="center">🍕 ─────────────── 🐘 ─────────────── 🍕</p>
 
