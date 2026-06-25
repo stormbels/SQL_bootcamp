@@ -35,24 +35,15 @@ A person can visit one pizzeria and order from another one, so not every task ca
 
 Structure
 
-SQL_bootcamp/
-├── README.md
-├── day00/
-│   ├── materials/
-│   │   └── model.sql
-│   └── src/
-│       ├── ex00/
-│       │   └── day00_ex00.sql
-│       ├── ex01/
-│       └── ...
-├── day01/
-├── day02/
-└── ...
+The repository is split by days from day00 to day09.
 
-Each day has its own folder.
-Each exercise has its own folder and SQL file.
+Each day contains:
 
-Example:
+* materials/ — task materials and database model when needed
+* src/ — exercise solutions
+* src/exXX/ — a separate folder for each exercise
+
+Example file path:
 
 day00/src/ex00/day00_ex00.sql
 
