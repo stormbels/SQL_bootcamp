@@ -22,14 +22,14 @@ from simple `SELECT` queries to joins, indexes, transactions, triggers, and func
 
 <img src="images/joins.png" alt="Joins" width="600"/>
 
-<p align="center">🍕 ─────────────── 🐘 ─────────────── 🍕</p>
+<p align="center">🍕 ───────────────────────────── 🐘 ───────────────────────────── 🍕</p>
 
 <p align="center">
 <img src="images/important_detail.png" alt="Important detail" width="600"/><br>
 <img src="images/get_pizza.png" alt="Visit and order are separate entities" width="600"/>
 </p>
 
-<p align="center">🍕 ─────────────── 🐘 ─────────────── 🍕</p>
+<p align="center">🍕 ───────────────────────────── 🐘 ───────────────────────────── 🍕</p>
 
 ## 🔍 About the database
 
@@ -37,7 +37,7 @@ The project starts with a small relational model and later extends it with addit
 
 <img src="images/database.png" alt="Database" width="600"/>
 
-<p align="center">🍕 ─────────────── 🐘 ─────────────── 🍕</p>
+<p align="center">🍕 ───────────────────────────── 🐘 ───────────────────────────── 🍕</p>
 
 ## 🧩 Project layout
 
@@ -49,7 +49,7 @@ Example:
 
 <img src="images/repository.png" alt="Project folder structure" width="600"/>
 
-<p align="center">🍕 ─────────────── 🐘 ─────────────── 🍕</p>
+<p align="center">🍕 ───────────────────────────── 🐘 ───────────────────────────── 🍕</p>
 
 ## 📚 Topics covered
 
@@ -211,7 +211,7 @@ Example:
   </tr>
 </table>
 
-<p align="center">🍕 ─────────────── 🐘 ─────────────── 🍕</p>
+<p align="center">🍕 ───────────────────────────── 🐘 ───────────────────────────── 🍕</p>
 
 ## 🟢 Running locally
 
@@ -235,7 +235,7 @@ Then `run` the exercise files from the corresponding `src` directory
 
 <img src="images/delivery_pizza.png" alt="Delivery pizza" width="500"/>
 
-<p align="center">🍕 ─────────────── 🐘 ─────────────── 🍕</p>
+<p align="center">🍕 ───────────────────────────── 🐘 ───────────────────────────── 🍕</p>
 
 ## 🛠️ Tech Stack
 
@@ -243,8 +243,6 @@ Then `run` the exercise files from the corresponding `src` directory
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![OrbStack](https://img.shields.io/badge/-OrbStack-8B5CF6?style=for-the-badge)
-
-<p align="center">🍕 ─────────────── 🐘 ─────────────── 🍕</p>
 
 ## 📌 Notes
 
